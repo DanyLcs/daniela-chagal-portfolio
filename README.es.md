@@ -42,10 +42,13 @@ Página web de reclutamiento inspirada en la casa de Gryffindor de Hogwarts, des
 
 ### 🦦 Otterclothes
 E-commerce desarrollado como proyecto de formación, enfocado en la creación de una experiencia de compra web dinámica y responsiva.
-**Tecnologías:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL y SpringBoot.
+- **Tecnologías:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL y SpringBoot.
 
 ## 💻 Otros proyectos
-Esta sección se actualizará conforme incorpore nuevos proyectos a mi portafolio.
+
+### ✈️ BIBOU: La France t'attend — Mini-sitio web de recomendaciones
+Mini-sitio web desarrollado como parte de un laboratorio con apoyo de IA, enfocado en recomendar lugares turísticos atípicos y poco comunes para visitar en Francia, buscando inspirar a los viajeros más allá de los destinos populares de películas o series.
+- **Tecnologías:** HTML, CSS, Bootstrap, JavaScript, Git, GitHub, Herramientas de IA.
 
 ## 📚 Formación actual
 Actualmente me encuentro en formación como Desarrolladora Frontend Jr., enfocada en el diseño e implementación de interfaces web interactivas, dinámicas y responsivas. Mi aprendizaje se centra en HTML, CSS, JavaScript, diseño UI/UX y herramientas de desarrollo.

@@ -42,10 +42,13 @@ Web recruitment page inspired by the House of Gryffindor from Hogwarts, develope
 
 ### 🦦 Otterclothes
 E-commerce developed as part of my training, focused on creating a dynamic and responsive web shopping experience.
-**Technologies:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL, and Spring Boot.
+- **Technologies:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL, and Spring Boot.
 
 ## 💻 Other Projects
-This section will be updated as I add new projects to my portfolio.
+
+### ✈️​​ BIBOU: La France t'attend — Recommendations Mini-Website
+A mini-website developed as part of a lab with AI support, focused on recommending atypical and off-the-beaten-path tourist spots in France. It provides a visual, engaging experience to inspire travelers beyond popular film and series locations.
+- **Technologies:** HTML, CSS, Bootstrap, Git, GitHub, AI Tools.
 
 ## 📚 Current Education
 I am currently training as a Junior Frontend Developer, focusing on designing and implementing interactive, dynamic, and responsive web interfaces. My learning centers on HTML, CSS, JavaScript, UI/UX design, and development tools.
