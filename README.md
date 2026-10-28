@@ -34,13 +34,13 @@ This portfolio was created to showcase my projects, skills, and experience in a 
 The portfolio is inspired by a minimalist and creative editorial design aesthetic, using a color palette of lavender, purple, gray, blue, and white.
 The structure is focused on clearly presenting my professional profile, technologies, projects, development process, education, and contact methods.
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🦁 Gryffindor-Resistance
+### 🦁 Gryffindor-Resistance
 Web recruitment page inspired by the House of Gryffindor from Hogwarts, developed during a hackathon. Focused on theme-based user experience, creative design, and interactive web elements.
 - **Technologies:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub.
 
-## 🦦 Otterclothes
+### 🦦 Otterclothes
 E-commerce developed as part of my training, focused on creating a dynamic and responsive web shopping experience.
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL, and Spring Boot.
 

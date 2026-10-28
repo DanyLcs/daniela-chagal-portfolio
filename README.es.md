@@ -34,13 +34,13 @@ Este portafolio fue creado para presentar de manera visual y profesional mis pro
 El portfolio está inspirado en una estética de diseño editorial minimalista y creativa, utilizando una paleta de tonos lavanda, morado, azul grisáceo y blanco.
 La estructura está enfocada en presentar de manera clara mi perfil profesional, tecnologías, proyectos, proceso de desarrollo, formación y medios de contacto.
 
-# 📌 Proyectos destacados
+## 📌 Proyectos destacados
 
-## 🦁 Gryffindor-Resistance
+### 🦁 Gryffindor-Resistance
 Página web de reclutamiento inspirada en la casa de Gryffindor de Hogwarts, desarrollada durante un hackatón. Enfocada en ofrecer una experiencia de usuario temática, diseño creativo y elementos interactivos.
 - **Tecnologías:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub.
 
-## 🦦 Otterclothes
+### 🦦 Otterclothes
 E-commerce desarrollado como proyecto de formación, enfocado en la creación de una experiencia de compra web dinámica y responsiva.
 **Tecnologías:** HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java, MySQL y SpringBoot.
 
