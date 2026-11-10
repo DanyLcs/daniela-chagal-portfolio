@@ -1,6 +1,6 @@
 <p align="center">
   <b>Language / Idioma:</b><br>
-  <a href="./README.en.md">English</a> | <b>Español</b>
+  <a href="./README.md">English</a> | <b>Español</b>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 # 👩🏻‍💻 Daniela Chagal — Portafolio
 > Ideas stitched together with code.
 
-Portfolio personal de Daniela Chagal, Desarrolladora Frontend Jr.
+Portafolio personal de Daniela Chagal, Desarrolladora Frontend Jr.
 Este proyecto reúne mi trayectoria, formación y proyectos de desarrollo web, mostrando mi proceso de aprendizaje y crecimiento dentro del desarrollo de software.
 
 ## 🚀 Sobre el proyecto
@@ -31,7 +31,7 @@ Este portafolio fue creado para presentar de manera visual y profesional mis pro
 - Contacto
 
 ## 🎨 Diseño
-El portfolio está inspirado en una estética de diseño editorial minimalista y creativa, utilizando una paleta de tonos lavanda, morado, azul grisáceo y blanco.
+El portafolio está inspirado en una estética de diseño editorial minimalista y creativa, utilizando una paleta de tonos lavanda, morado, azul grisáceo y blanco.
 La estructura está enfocada en presentar de manera clara mi perfil profesional, tecnologías, proyectos, proceso de desarrollo, formación y medios de contacto.
 
 ## 📌 Proyectos destacados
