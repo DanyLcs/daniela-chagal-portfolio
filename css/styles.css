@@ -1,0 +1,64 @@
+/*? Estilo de la navbar */
+.navbar {
+    background-color: #c1a0ac;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/** Color por defecto para todas las pestañas del menú */
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+  transition: color 0.2s ease-in-out;
+}
+
+/** Hover: Cuando el usuaro pasa el cursor por encima, el color cambia a negro */
+.navbar-nav .nav-link:hover {
+  color: #000000 !important;
+}
+
+/** Cuando el usuario se encuentra en la sección se mantiene de color negro y en negritas */
+.navbar-nav .nav-link.active {
+  color: #000000 !important;
+  font-weight: bold; 
+}
+
+/*? Footer */
+.card-body .card-title,
+.card-body .card-text,
+.italic-text,
+.author-text {
+    text-align: center !important;
+    color: white !important;
+}
+
+/** Espaciados y tamaños de texto */
+.card-body .card-title,
+.card-body .card-text {
+    margin-bottom: 0.25rem !important;
+    line-height: 1.2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.italic-text {
+    font-style: italic;
+    opacity: 0.9;
+    font-size: 0.95rem;
+}
+
+.author-text {
+    font-size: 0.85rem;
+    opacity: 0.8;
+}
+
+/** Iconos de redes sociales */
+.social-icon {
+    color: white !important;
+    font-size: 1.8rem;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+/** Efecto de los iconos */
+.social-icon:hover {
+    transform: scale(1.15);
+    opacity: 0.8;
+}
+
