@@ -21,6 +21,12 @@
   font-weight: bold; 
 }
 
+/*? Sección de tecnologías */
+.card {
+    margin-top: 3rem;
+    margin-bottom: 3rem; 
+}
+
 /*? Footer */
 .card-body .card-title,
 .card-body .card-text,
